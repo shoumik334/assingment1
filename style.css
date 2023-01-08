@@ -49,8 +49,9 @@
 
 
 .image1 img{
-    width: 569px;
+    width: 565px;
 height: 723.3px;
+
 
 }
 .image1{
@@ -175,5 +176,94 @@ margin-left: 50px;
     background-color: #ffff;
 }
 
+footer{
+    background-color: #151414;
+    height: 577px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.last{
+    display: flex;
+    width: 80%;
+    height: 100%;
+}
+.future{
+    flex: 2;  
+   
+    margin-top: 100px;  
+  
+}
+.fu1{
+    width: 485px;
+    height: 317px;
+    margin-left: 10px; 
+   
 
+}
+.fu1 h1{
+    color: #F8F8F8;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.fu1 p{
+    margin-bottom: 20px;
+    line-height: 26px;
+    font-size: 20px;
+    color: #ffff;
+}
+
+
+.social{
+    display: flex;
+    gap: 40px;
+    margin-top: 25px;
+}
+.sub{
+    flex: 2;
+    margin-top: 100px;  
+}
+.sub1{
+    width: 325px;
+   height: 204px; 
+   display: flex;
+   flex-direction: column;
+   gap: 15px;
+   margin-left: 30px;
+}
+.sub1 h3{
+    font-size: 30px;
+    font-weight: 600;
+    color: #ffff;
+    margin-bottom: 20px;
+}
+.sub1 input{
+    width: 325px;
+   height: 64px;
+   padding-left:  20px;
+   border-radius: 8px;
+   border:1px solid #ffff;
+   color: #ffff;
+   background-color: transparent;
+   outline: none;
+   font-size: 20px;
+}
+.sub1 input::placeholder {
+    color: #ffff; 
+   font-size: 20px;
+   
+  }
+.sub1 button{
+    width: 160px;
+    height: 64px; 
+    font-size: 20px;
+    text-align: center;
+    color: #F15B22;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    background-color: #ffff;
+
+}
 
