@@ -133,3 +133,47 @@ height: 723.3px;
     color: #444343;
 }
 /* end myplan */
+
+.call{
+    margin-top: 90px;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.call_containt{
+     background: linear-gradient(90deg, #F15B22 0%, rgba(246, 246, 246, 0) 100%),url(./asset/images/watch.png); 
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
+.call_con1{
+width: 459px;
+height: 175px;
+margin-left: 50px;
+
+}
+.call_con1 h2{
+    font-size: 40px;
+    line-height: 47px;
+    color: #ffff;
+    margin-bottom: 40px;
+
+}
+.call_con1 button{
+    width: 160px;
+    height: 64px; 
+    font-size: 20px;
+    text-align: center;
+    color: #F15B22;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    background-color: #ffff;
+}
+
+
+
