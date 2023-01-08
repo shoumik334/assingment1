@@ -69,3 +69,27 @@ height: 723.3px;
 .sp_content{
     flex: 2;
 }
+.sp_primary{
+    margin-left: 20px;
+    width: 600px;
+}
+.sp_primary h2{
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.sp_primary p{
+    font-size: 20px;
+    color: #444343;
+    margin-bottom: 30px;
+    line-height: 25px;
+}
+.sp_primary li span{
+    color: #16D887;
+}
+.sp_primary li{
+    list-style: none;
+    font-size: 18px;
+    line-height: 23px;
+    color: #444343;
+
+}
