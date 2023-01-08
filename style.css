@@ -59,3 +59,13 @@ height: 723.3px;
     text-align: center;
 
 }
+/*Start second Part*/
+
+.second_part{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sp_content{
+    flex: 2;
+}
